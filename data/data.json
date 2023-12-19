@@ -1,0 +1,802 @@
+[
+  {
+    "id": "1",
+    "title": "MONEY MINDSET",
+    "author": "จักรพงษ์ เมษพันธุ์",
+    "publisher": "ซีเอ็ดยูเคชั่น/se-ed",
+    "vote": "4",
+    "price": 395,
+    "quantity": 1,
+    "img_cover": "https://storage.naiin.com/system/application/bookstore/resource/product/202209/561939/1000254973_front_XL.jpg?t=cat&imgname=MONEY-MINDSET"
+  },
+  {
+    "id": "2",
+    "title": "The Grid วาดตารางสร้างธุรกิจ",
+    "author": "แมตต์ วัตคินสัน",
+    "publisher": "Be(ing) (บีอิ้ง)",
+    "vote": "3",
+    "price": 325,
+    "quantity": 1,
+    "img_cover": "https://storage.naiin.com/system/application/bookstore/resource/product/202209/561080/1000254315_front_XL.jpg?t=cat&imgname=The-Grid-%E0%B8%A7%E0%B8%B2%E0%B8%94%E0%B8%95%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%87%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%98%E0%B8%B8%E0%B8%A3%E0%B8%81%E0%B8%B4%E0%B8%88"
+  },
+  {
+    "id": "3",
+    "title": "ใช้ facebook ถูกวิธียอดขายดีขึ้น 100เท่า",
+    "author": "มัณฑิตา จินดา",
+    "publisher": "ซีเอ็ดยูเคชั่น/se-ed",
+    "vote": "5",
+    "price": 255,
+    "quantity": 1,
+    "img_cover": "https://storage.naiin.com/system/application/bookstore/resource/product/202210/562947/1000255436_front_XL.jpg?t=cat&imgname=%E0%B9%83%E0%B8%8A%E0%B9%89-facebook-%E0%B8%96%E0%B8%B9%E0%B8%81%E0%B8%A7%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B8%A2%E0%B8%AD%E0%B8%94%E0%B8%82%E0%B8%B2%E0%B8%A2%E0%B8%94%E0%B8%B5%E0%B8%82%E0%B8%B6%E0%B9%89%E0%B8%99-100%E0%B9%80%E0%B8%97%E0%B9%88%E0%B8%B2"
+  },
+  {
+    "id": "4",
+    "title": "พ่อรวยสอนลูก สอนลูกให้รวย",
+    "author": "Robert T. Kiyosaki",
+    "publisher": "ซีเอ็ดยูเคชั่น/se-ed",
+    "vote": "4",
+    "price": 330,
+    "quantity": 1,
+    "img_cover": "https://storage.naiin.com/system/application/bookstore/resource/product/202210/562942/1000255432_front_XL.jpg?t=cat&imgname=%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B8%A3%E0%B8%A7%E0%B8%A2%E0%B8%AA%E0%B8%AD%E0%B8%99%E0%B8%A5%E0%B8%B9%E0%B8%81-%E0%B8%AA%E0%B8%AD%E0%B8%99%E0%B8%A5%E0%B8%B9%E0%B8%81%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%A3%E0%B8%A7%E0%B8%A2"
+  },
+  {
+    "id": "5",
+    "title": "Transformer Playbook คู่มือทรานส์ฟอร์ม",
+    "author": "กองบรรณาธิการ",
+    "publisher": "วิช กรุ๊ป (ไทยแลนด์)",
+    "vote": "3",
+    "price": 300,
+    "quantity": 1,
+    "img_cover": "https://storage.naiin.com/system/application/bookstore/resource/product/202210/562759/1000255356_front_XL.jpg?t=cat&imgname=Transformer-Playbook-%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%97%E0%B8%A3%E0%B8%B2%E0%B8%99%E0%B8%AA%E0%B9%8C%E0%B8%9F%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%A1"
+  },
+  {
+    "id": "6",
+    "title": "ศาสตร์แห่งหุ้นราคาต่ำกำไรโต",
+    "author": "Hilary Kramer",
+    "publisher": "เอฟพี เอดิชั่น/FP EDITION",
+    "vote": "2",
+    "price": 198,
+    "quantity": 1,
+    "img_cover": "https://storage.naiin.com/system/application/bookstore/resource/product/202210/562950/1000255440_front_XL.jpg?t=cat&imgname=%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B9%8C%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%AB%E0%B8%B8%E0%B9%89%E0%B8%99%E0%B8%A3%E0%B8%B2%E0%B8%84%E0%B8%B2%E0%B8%95%E0%B9%88%E0%B8%B3%E0%B8%81%E0%B8%B3%E0%B9%84%E0%B8%A3%E0%B9%82%E0%B8%95"
+  },
+  {
+    "id": "7",
+    "title": "คัมภีร์การบริหารทีมงาน",
+    "author": "HARVARD BUSINESS REVIEW",
+    "publisher": "เอ็กซเปอร์เน็ท/expernetbooks",
+    "vote": "3",
+    "price": 250,
+    "quantity": 1,
+    "img_cover": "https://storage.naiin.com/system/application/bookstore/resource/product/202210/562779/1000255360_front_XL.jpg?t=cat&imgname=%E0%B8%84%E0%B8%B1%E0%B8%A1%E0%B8%A0%E0%B8%B5%E0%B8%A3%E0%B9%8C%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9A%E0%B8%A3%E0%B8%B4%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B5%E0%B8%A1%E0%B8%87%E0%B8%B2%E0%B8%99"
+  },
+  {
+    "id": "8",
+    "title": "รวยหุ้นง่ายๆ สไตล์ HYBRID",
+    "author": "นพ.ธีรภัทร์ พุ่มพวง",
+    "publisher": "1168 พับลิชชิ่ง",
+    "vote": "4",
+    "price": 269,
+    "quantity": 1,
+    "img_cover": "https://storage.naiin.com/system/application/bookstore/resource/product/202210/562286/1000255156_front_XL.jpg?t=cat&imgname=%E0%B8%A3%E0%B8%A7%E0%B8%A2%E0%B8%AB%E0%B8%B8%E0%B9%89%E0%B8%99%E0%B8%87%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B9%86-%E0%B8%AA%E0%B9%84%E0%B8%95%E0%B8%A5%E0%B9%8C-HYBRID-"
+  },
+  {
+    "id": "9",
+    "title": "บริหารทีมขายให้สร้างกำไรหลักล้าน",
+    "author": "บุ้ง ดีดติ่งหู",
+    "publisher": "ต้นคิด",
+    "vote": "4",
+    "price": 225,
+    "quantity": 1,
+    "img_cover": "https://storage.naiin.com/system/application/bookstore/resource/product/202210/562610/1000255308_front_XL.jpg?t=cat&imgname=%E0%B8%9A%E0%B8%A3%E0%B8%B4%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B5%E0%B8%A1%E0%B8%82%E0%B8%B2%E0%B8%A2%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B3%E0%B9%84%E0%B8%A3%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%99"
+  },
+  {
+    "id": "10",
+    "title": "กุญแจอ่านงบการเงิน",
+    "author": "เอิญ สุริยะฉาย",
+    "publisher": "ซีเอ็ดยูเคชั่น/se-ed",
+    "vote": "1",
+    "price": 250,
+    "quantity": 1,
+    "img_cover": "https://storage.naiin.com/system/application/bookstore/resource/product/202210/562669/1000255319_front_XL.jpg?t=cat&imgname=%E0%B8%81%E0%B8%B8%E0%B8%8D%E0%B9%81%E0%B8%88%E0%B8%AD%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%87%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99"
+  },
+  {
+    "id": "11",
+    "title": "ก้าวแรกอ่านงบการเงิน",
+    "author": "เอิญ สุริยะฉาย",
+    "publisher": "ซีเอ็ดยูเคชั่น/se-ed",
+    "vote": "1",
+    "price": 250,
+    "quantity": 1,
+    "img_cover": "https://storage.naiin.com/system/application/bookstore/resource/product/202210/562672/1000255318_front_XL.jpg?t=cat&imgname=%E0%B8%81%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B9%81%E0%B8%A3%E0%B8%81%E0%B8%AD%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%87%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99"
+  },
+  {
+    "id": "12",
+    "title": "พ่อรวยสอนปลุกอัจฉริยภาพทางการเงิน",
+    "author": "Robert T. Kiyosaki",
+    "publisher": "ซีเอ็ดยูเคชั่น/se-ed",
+    "vote": "3",
+    "price": 265,
+    "quantity": 1,
+    "img_cover": "https://storage.naiin.com/system/application/bookstore/resource/product/202210/562670/1000255320_front_XL.jpg?t=cat&imgname=%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B8%A3%E0%B8%A7%E0%B8%A2%E0%B8%AA%E0%B8%AD%E0%B8%99%E0%B8%9B%E0%B8%A5%E0%B8%B8%E0%B8%81%E0%B8%AD%E0%B8%B1%E0%B8%88%E0%B8%89%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99"
+  },
+  {
+    "id": "13",
+    "title": "Inventing Bitcoin : ไขกลไกนวัตกรรมเงิน",
+    "author": "Yan Pritzker",
+    "publisher": "ซีเอ็ดยูเคชั่น/se-ed",
+    "vote": "5",
+    "price": 225,
+    "quantity": 1,
+    "img_cover": "https://storage.naiin.com/system/application/bookstore/resource/product/202210/562559/1000255246_front_XL.jpg?t=cat&imgname=Inventing-Bitcoin-:-%E0%B9%84%E0%B8%82%E0%B8%81%E0%B8%A5%E0%B9%84%E0%B8%81%E0%B8%99%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99"
+  },
+  {
+    "id": "14",
+    "title": "คู่มือวิเคราะห์การเทรดด้วยทรงกราฟ",
+    "author": "โธมัส บัลคาวสกี (Thomas N. Bulkowski)",
+    "publisher": "ธิงค์บียอนด์/Think Beyond",
+    "vote": "5",
+    "price": 1200,
+    "quantity": 1,
+    "img_cover": "https://storage.naiin.com/system/application/bookstore/resource/product/202210/562188/1000255144_front_XL.jpg?t=cat&imgname=%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%A7%E0%B8%B4%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%B0%E0%B8%AB%E0%B9%8C%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%97%E0%B8%A3%E0%B8%94%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B8%97%E0%B8%A3%E0%B8%87%E0%B8%81%E0%B8%A3%E0%B8%B2%E0%B8%9F"
+  },
+  {
+    "id": "15",
+    "title": "เราไม่ได้ซื้อสินค้า เราซื้อแบรนด์",
+    "author": "ช็อนอูซ็อง",
+    "publisher": "อมรินทร์ How to",
+    "vote": "2",
+    "price": 225,
+    "quantity": 1,
+    "img_cover": "https://storage.naiin.com/system/application/bookstore/resource/product/202210/562062/1000255094_front_XL.jpg?t=cat&imgname=%E0%B9%80%E0%B8%A3%E0%B8%B2%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%8B%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%84%E0%B9%89%E0%B8%B2-%E0%B9%80%E0%B8%A3%E0%B8%B2%E0%B8%8B%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B9%81%E0%B8%9A%E0%B8%A3%E0%B8%99%E0%B8%94%E0%B9%8C"
+  },
+  {
+    "id": "16",
+    "title": "เข้าใจหุ้นก่อนเข้าซื้อ เทรดหรือถือก็ทำกำ",
+    "author": "Money Buffalo (พี่ทุย)",
+    "publisher": "ไอแอมเดอะเบสท์/I AM THE BEST",
+    "vote": "1",
+    "price": 289,
+    "quantity": 1,
+    "img_cover": "https://storage.naiin.com/system/application/bookstore/resource/product/202210/562487/1000255257_front_XL.jpg?t=cat&imgname=%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B9%83%E0%B8%88%E0%B8%AB%E0%B8%B8%E0%B9%89%E0%B8%99%E0%B8%81%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%8B%E0%B8%B7%E0%B9%89%E0%B8%AD-%E0%B9%80%E0%B8%97%E0%B8%A3%E0%B8%94%E0%B8%AB%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%96%E0%B8%B7%E0%B8%AD%E0%B8%81%E0%B9%87%E0%B8%97%E0%B8%B3%E0%B8%81%E0%B8%B3"
+  },
+  {
+    "id": "17",
+    "title": "รู้แค่นี้ประหยัดภาษีหลักล้าน",
+    "author": "นวลวรรณ ถนอมดิษฐ์สกุล",
+    "publisher": "เช็ก/Czech",
+    "vote": "0",
+    "price": 295,
+    "quantity": 1,
+    "img_cover": "https://storage.naiin.com/system/application/bookstore/resource/product/202210/562492/1000255258_front_XL.jpg?t=cat&imgname=%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B9%81%E0%B8%84%E0%B9%88%E0%B8%99%E0%B8%B5%E0%B9%89%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B8%A2%E0%B8%B1%E0%B8%94%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B5%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%99"
+  },
+  {
+    "id": "18",
+    "title": "Content Marketing 2nd Edition",
+    "author": "ณัฐพล ใยไพโรจน์,อาราดา ประทินอักษร",
+    "publisher": "อินโฟเพรส/Infopress",
+    "vote": "0",
+    "price": 265,
+    "quantity": 1,
+    "img_cover": "https://storage.naiin.com/system/application/bookstore/resource/product/202210/562185/1000255082_front_XL.jpg?t=cat&imgname=Content-Marketing-2nd-Edition"
+  },
+  {
+    "id": "19",
+    "title": "ครบเครื่อง เรื่อง การเจราจาต่อรอง เล่ม 1",
+    "author": "วิชัย โถสุวรรณจินดา",
+    "publisher": "สนพ.บัณฑิตอักษร",
+    "vote": "5",
+    "price": 300,
+    "quantity": 1,
+    "img_cover": "https://storage.naiin.com/system/application/bookstore/resource/product/202210/561989/1000255034_front_XL.jpg?t=cat&imgname=%E0%B8%84%E0%B8%A3%E0%B8%9A%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87-%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B2%E0%B8%88%E0%B8%B2%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B8%A3%E0%B8%AD%E0%B8%87-%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%A1-1"
+  },
+  {
+    "id": "20",
+    "title": "เกษียณให้รวย ด้วย Cryptocurrency ฉบับคู่",
+    "author": "พรศักดิ์ อุรัจฉัทชัยรัตน์",
+    "publisher": "เช็ก/Czech",
+    "vote": "5",
+    "price": 265,
+    "quantity": 1,
+    "img_cover": "https://storage.naiin.com/system/application/bookstore/resource/product/202210/562278/1000255201_front_XL.jpg?t=cat&imgname=%E0%B9%80%E0%B8%81%E0%B8%A9%E0%B8%B5%E0%B8%A2%E0%B8%93%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%A3%E0%B8%A7%E0%B8%A2-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-Cryptocurrency-%E0%B8%89%E0%B8%9A%E0%B8%B1%E0%B8%9A%E0%B8%84%E0%B8%B9%E0%B9%88"
+  },
+  {
+    "id": "21",
+    "title": "Basic Trading TFEX มือใหม่หัดเทรด TFEX",
+    "author": "แพรพิไล จันทร์พร้อมสุข (Praepilai)",
+    "publisher": "เช็ก/Czech",
+    "vote": "5",
+    "price": 245,
+    "quantity": 1,
+    "img_cover": "https://storage.naiin.com/system/application/bookstore/resource/product/202210/562275/1000255200_front_XL.jpg?t=cat&imgname=Basic-Trading-TFEX-%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B8%AB%E0%B8%B1%E0%B8%94%E0%B9%80%E0%B8%97%E0%B8%A3%E0%B8%94-TFEX"
+  },
+  {
+    "id": "22",
+    "title": "How to Day Trade for a Living เทรดหุ้นรายวันให้ชนะตลาด",
+    "author": "Andrew Aziz (แอนดรูว์ อาซิซ)",
+    "publisher": "แอร์โรว์ มัลติมีเดีย",
+    "vote": "5",
+    "price": 750,
+    "quantity": 1,
+    "img_cover": "https://storage.naiin.com/system/application/bookstore/resource/product/202210/561997/1000255031_front_XL.jpg?t=cat&imgname=How-to-Day-Trade-for-a-Living-%E0%B9%80%E0%B8%97%E0%B8%A3%E0%B8%94%E0%B8%AB%E0%B8%B8%E0%B9%89%E0%B8%99%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%8A%E0%B8%99%E0%B8%B0%E0%B8%95%E0%B8%A5%E0%B8%B2%E0%B8%94"
+  },
+  {
+    "id": "23",
+    "title": "ทะยาน TRANSFORM",
+    "author": "พิชเยนทร์ หงษ์ภักดี (โธมัส)",
+    "publisher": "อะไรเอ่ย",
+    "vote": "5",
+    "price": 249,
+    "quantity": 1,
+    "img_cover": "https://storage.naiin.com/system/application/bookstore/resource/product/202209/560891/1000254255_front_XL.jpg?t=cat&imgname=%E0%B8%97%E0%B8%B0%E0%B8%A2%E0%B8%B2%E0%B8%99-TRANSFORM"
+  },
+  {
+    "id": "24",
+    "title": "คิดแบบผู้หญิง รวยแบบบัฟเฟ็ตต์",
+    "author": "Louann Lofton",
+    "publisher": "สำนักพิมพ์แสงดาว/saengdao",
+    "vote": "5",
+    "price": 350,
+    "quantity": 1,
+    "img_cover": "https://storage.naiin.com/system/application/bookstore/resource/product/202209/561096/1000254310_front_XL.jpg?t=cat&imgname=%E0%B8%84%E0%B8%B4%E0%B8%94%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%AB%E0%B8%8D%E0%B8%B4%E0%B8%87-%E0%B8%A3%E0%B8%A7%E0%B8%A2%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%9A%E0%B8%B1%E0%B8%9F%E0%B9%80%E0%B8%9F%E0%B9%87%E0%B8%95%E0%B8%95%E0%B9%8C"
+  },
+  {
+    "id": "25",
+    "title": "ชำแหละพอร์ตโฟลิโอของวอร์เรน บัฟเฟ็ตต์",
+    "author": "Mary Buffett & David Clark",
+    "publisher": "สำนักพิมพ์แสงดาว/saengdao",
+    "vote": "5",
+    "price": 300,
+    "quantity": 1,
+    "img_cover": "https://storage.naiin.com/system/application/bookstore/resource/product/202209/561101/1000254311_front_XL.jpg?t=cat&imgname=%E0%B8%8A%E0%B8%B3%E0%B9%81%E0%B8%AB%E0%B8%A5%E0%B8%B0%E0%B8%9E%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%95%E0%B9%82%E0%B8%9F%E0%B8%A5%E0%B8%B4%E0%B9%82%E0%B8%AD%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%A3%E0%B8%99-%E0%B8%9A%E0%B8%B1%E0%B8%9F%E0%B9%80%E0%B8%9F%E0%B9%87%E0%B8%95%E0%B8%95%E0%B9%8C"
+  },
+  {
+    "id": "26",
+    "title": "อาทาเดีย",
+    "author": "ณภัทร จาตุศรีพิทักษ์",
+    "publisher": "สำนักพิมพ์เกลือ/Salt Publishing",
+    "vote": "5",
+    "price": 540,
+    "quantity": 1,
+    "img_cover": "https://storage.naiin.com/system/application/bookstore/resource/product/202209/561889/1000254976_front_XL.jpg?t=cat&imgname=%E0%B8%AD%E0%B8%B2%E0%B8%97%E0%B8%B2%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2"
+  },
+  {
+    "id": "27",
+    "title": "โคตรคน ชาร์ลี มังเกอร์",
+    "author": "Janet Lowe",
+    "publisher": "เอฟพี เอดิชั่น/FP EDITION",
+    "vote": "5",
+    "price": 528,
+    "quantity": 1,
+    "img_cover": "https://storage.naiin.com/system/application/bookstore/resource/product/202209/561881/1000254979_front_XL.jpg?t=cat&imgname=%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%84%E0%B8%99-%E0%B8%8A%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%A5%E0%B8%B5-%E0%B8%A1%E0%B8%B1%E0%B8%87%E0%B9%80%E0%B8%81%E0%B8%AD%E0%B8%A3%E0%B9%8C"
+  },
+  {
+    "id": "28",
+    "title": "คู่มือเศรษฐี รวยเร็ว เงินดี หนี้หมด",
+    "author": "ตฤณกร",
+    "publisher": "Feel Good",
+    "vote": "5",
+    "price": 125,
+    "quantity": 1,
+    "img_cover": "https://storage.naiin.com/system/application/bookstore/resource/product/202209/560399/1000254033_front_XL.jpg?t=cat&imgname=%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B9%80%E0%B8%A8%E0%B8%A3%E0%B8%A9%E0%B8%90%E0%B8%B5-%E0%B8%A3%E0%B8%A7%E0%B8%A2%E0%B9%80%E0%B8%A3%E0%B9%87%E0%B8%A7-%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99%E0%B8%94%E0%B8%B5-%E0%B8%AB%E0%B8%99%E0%B8%B5%E0%B9%89%E0%B8%AB%E0%B8%A1%E0%B8%94"
+  },
+  {
+    "id": "29",
+    "title": "คิดอย่าง...เจ้าสัว พ.2",
+    "author": "อชิตะ วาตากุ",
+    "publisher": "เพชรประกาย/phetpraguy",
+    "vote": "5",
+    "price": 150,
+    "quantity": 1,
+    "img_cover": "https://storage.naiin.com/system/application/bookstore/resource/product/202209/560415/1000254047_front_XL.jpg?t=cat&imgname=%E0%B8%84%E0%B8%B4%E0%B8%94%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87...%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%AA%E0%B8%B1%E0%B8%A7-%E0%B8%9E.2"
+  },
+  {
+    "id": "30",
+    "title": "รู้ให้ไว! ภาษีออนไลน์ จะได้ไม่เจอภาษีย้อนหลัง!",
+    "author": "พละชัย ฟูเกียรติพงษ์",
+    "publisher": "มายด์ รีพับบลิก, สนพ",
+    "vote": "5",
+    "price": 359,
+    "quantity": 1,
+    "img_cover": "https://storage.naiin.com/system/application/bookstore/resource/product/202209/559255/1000253747_front_XL.jpg?t=cat&imgname=%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B9%84%E0%B8%A7!-%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C-%E0%B8%88%E0%B8%B0%E0%B9%84%E0%B8%94%E0%B9%89%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%80%E0%B8%88%E0%B8%AD%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B5%E0%B8%A2%E0%B9%89%E0%B8%AD%E0%B8%99%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87!"
+  },
+  {
+    "id": "31",
+    "title": "Survival Trading อ่านให้จบก่อนมาเป็น Ful",
+    "author": "ศักดิ์ชัย จันทร์พร้อมสุข",
+    "publisher": "เช็ก/Czech",
+    "vote": "5",
+    "price": 245,
+    "quantity": 1,
+    "img_cover": "https://storage.naiin.com/system/application/bookstore/resource/product/202209/560791/1000254195_front_XL.jpg?t=cat&imgname=Survival-Trading-%E0%B8%AD%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%88%E0%B8%9A%E0%B8%81%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%A1%E0%B8%B2%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99-Ful"
+  },
+  {
+    "id": "32",
+    "title": "การจัดการเชิงกลยุทธ์ (ฉบับปรับปรุงใหม่)",
+    "author": "ณัฏฐพันธ์ เขจรนันทน์",
+    "publisher": "ซีเอ็ดยูเคชั่น/se-ed",
+    "vote": "5",
+    "price": 285,
+    "quantity": 1,
+    "img_cover": "https://storage.naiin.com/system/application/bookstore/resource/product/202209/560749/1000254188_front_XL.jpg?t=cat&imgname=%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%88%E0%B8%B1%E0%B8%94%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%8A%E0%B8%B4%E0%B8%87%E0%B8%81%E0%B8%A5%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B9%8C-(%E0%B8%89%E0%B8%9A%E0%B8%B1%E0%B8%9A%E0%B8%9B%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%9B%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88)"
+  },
+  {
+    "id": "33",
+    "title": "ปั้นพนักงานให้เป็นขุมพลังของบริษัท",
+    "author": "อะริโมโตะ ฮิโตชิ",
+    "publisher": "สุขภาพใจ/Sukkhapabjai",
+    "vote": "5",
+    "price": 200,
+    "quantity": 1,
+    "img_cover": "https://storage.naiin.com/system/application/bookstore/resource/product/202209/560478/1000254087_front_XL.jpg?t=cat&imgname=%E0%B8%9B%E0%B8%B1%E0%B9%89%E0%B8%99%E0%B8%9E%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%82%E0%B8%B8%E0%B8%A1%E0%B8%9E%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%9A%E0%B8%A3%E0%B8%B4%E0%B8%A9%E0%B8%B1%E0%B8%97"
+  },
+  {
+    "id": "34",
+    "title": "Easy Micro economics เศรษฐศาสตร์จุลภาคภาษาคน",
+    "author": "จินตวัฒน์ จันทร์ผ่องใส (พี่จิน)",
+    "publisher": "GANBATTE",
+    "vote": "5",
+    "price": 329,
+    "quantity": 1,
+    "img_cover": "https://storage.naiin.com/system/application/bookstore/resource/product/202209/560209/1000253944_front_XL.jpg?t=cat&imgname=Easy-Micro-economics-%E0%B9%80%E0%B8%A8%E0%B8%A3%E0%B8%A9%E0%B8%90%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B9%8C%E0%B8%88%E0%B8%B8%E0%B8%A5%E0%B8%A0%E0%B8%B2%E0%B8%84%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2%E0%B8%84%E0%B8%99"
+  },
+  {
+    "id": "35",
+    "title": "หลักการคลื่นเอลเลียตต์-กุญแจสู่พฤติกรรม",
+    "author": "A. J. Frost ,Robert R. Prechter",
+    "publisher": "ซีเอ็ดยูเคชั่น/se-ed",
+    "vote": "5",
+    "price": 395,
+    "quantity": 1,
+    "img_cover": "https://storage.naiin.com/system/application/bookstore/resource/product/202209/560528/1000254093_front_XL.jpg?t=cat&imgname=%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%A5%E0%B8%B7%E0%B9%88%E0%B8%99%E0%B9%80%E0%B8%AD%E0%B8%A5%E0%B9%80%E0%B8%A5%E0%B8%B5%E0%B8%A2%E0%B8%95%E0%B8%95%E0%B9%8C-%E0%B8%81%E0%B8%B8%E0%B8%8D%E0%B9%81%E0%B8%88%E0%B8%AA%E0%B8%B9%E0%B9%88%E0%B8%9E%E0%B8%A4%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1"
+  },
+  {
+    "id": "36",
+    "title": "มาเพิ่มเซนส์การตลาดกันเถอะ!",
+    "author": "ชิกิริน",
+    "publisher": "วีเลิร์น (WeLearn)",
+    "vote": "5",
+    "price": 275,
+    "quantity": 1,
+    "img_cover": "https://storage.naiin.com/system/application/bookstore/resource/product/202209/559853/1000253879_front_XL.jpg?t=cat&imgname=%E0%B8%A1%E0%B8%B2%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B9%80%E0%B8%8B%E0%B8%99%E0%B8%AA%E0%B9%8C%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%95%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%96%E0%B8%AD%E0%B8%B0!"
+  },
+  {
+    "id": "37",
+    "title": "กลยุทธ์การค้าจีนและยิว",
+    "author": "ราชรามัญ",
+    "publisher": "MD",
+    "vote": "5",
+    "price": 225,
+    "quantity": 1,
+    "img_cover": "https://storage.naiin.com/system/application/bookstore/resource/product/202209/559809/1000253860_front_XL.jpg?t=cat&imgname=%E0%B8%81%E0%B8%A5%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B9%8C%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B9%89%E0%B8%B2%E0%B8%88%E0%B8%B5%E0%B8%99%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%A2%E0%B8%B4%E0%B8%A7"
+  },
+  {
+    "id": "38",
+    "title": "เทรด FOREX ให้ได้กำไรด้วยสมการ HEDGE",
+    "author": "สกี เกิดนิยม (โค้ชป้อม)",
+    "publisher": "เกรทไอเดีย/GREAT idea",
+    "vote": "5",
+    "price": 225,
+    "quantity": 1,
+    "img_cover": "https://storage.naiin.com/system/application/bookstore/resource/product/202209/559463/1000253817_front_XL.jpg?t=cat&imgname=%E0%B9%80%E0%B8%97%E0%B8%A3%E0%B8%94-FOREX-%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%81%E0%B8%B3%E0%B9%84%E0%B8%A3%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B8%AA%E0%B8%A1%E0%B8%81%E0%B8%B2%E0%B8%A3-HEDGE"
+  },
+  {
+    "id": "39",
+    "title": "เริ่มต้นสร้างความร่ำรวยจากการลงทุนในตลาด",
+    "author": "Dr.Andrew Stotz,CFA (แอนดรูว์ สตอตซ์)",
+    "publisher": "เกรทไอเดีย/GREAT idea",
+    "vote": "5",
+    "price": 199,
+    "quantity": 1,
+    "img_cover": "https://storage.naiin.com/system/application/bookstore/resource/product/202209/559462/1000253816_front_XL.jpg?t=cat&imgname=%E0%B9%80%E0%B8%A3%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%95%E0%B9%89%E0%B8%99%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B9%88%E0%B8%B3%E0%B8%A3%E0%B8%A7%E0%B8%A2%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A5%E0%B8%87%E0%B8%97%E0%B8%B8%E0%B8%99%E0%B9%83%E0%B8%99%E0%B8%95%E0%B8%A5%E0%B8%B2%E0%B8%94"
+  },
+  {
+    "id": "40",
+    "title": "DATA STORYTELLING IN MARKETING ใช้ดาต้าเล่าเรื่องแบบมืออาชีพ",
+    "author": "วสะ บูรพาเดชะ",
+    "publisher": "Shortcut",
+    "vote": "5",
+    "price": 245,
+    "quantity": 1,
+    "img_cover": "https://storage.naiin.com/system/application/bookstore/resource/product/202208/558201/1000253568_front_XL.jpg?t=cat&imgname=DATA-STORYTELLING-IN-MARKETING-%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%94%E0%B8%B2%E0%B8%95%E0%B9%89%E0%B8%B2%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B2%E0%B8%8A%E0%B8%B5%E0%B8%9E"
+  },
+  {
+    "id": "41",
+    "title": "ทำธุรกิจเครือข่ายให้ รวยแล้วรวยอีก",
+    "author": "บรรณวัฒน์ เรืองจิรัสย์",
+    "publisher": "ต้นคิด",
+    "vote": "5",
+    "price": 99,
+    "quantity": 1,
+    "img_cover": "https://storage.naiin.com/system/application/bookstore/resource/product/202208/557905/1000253508_front_XL.jpg?t=cat&imgname=%E0%B8%97%E0%B8%B3%E0%B8%98%E0%B8%B8%E0%B8%A3%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B9%83%E0%B8%AB%E0%B9%89-%E0%B8%A3%E0%B8%A7%E0%B8%A2%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7%E0%B8%A3%E0%B8%A7%E0%B8%A2%E0%B8%AD%E0%B8%B5%E0%B8%81"
+  },
+  {
+    "id": "42",
+    "title": "อยากเป็น นักขายขั้นเทพ แต่พูดไม่เก่ง",
+    "author": "ภานุศร เครือปัญญาดี",
+    "publisher": "Happy Book",
+    "vote": "5",
+    "price": 145,
+    "quantity": 1,
+    "img_cover": "https://storage.naiin.com/system/application/bookstore/resource/product/202208/557886/1000253502_front_XL.jpg?t=cat&imgname=%E0%B8%AD%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99-%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%82%E0%B8%B2%E0%B8%A2%E0%B8%82%E0%B8%B1%E0%B9%89%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%9E-%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%9E%E0%B8%B9%E0%B8%94%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%80%E0%B8%81%E0%B9%88%E0%B8%87"
+  },
+  {
+    "id": "43",
+    "title": "การบริหารจัดการเรื่องเงิน",
+    "author": "อินทิรา ไข่มุก",
+    "publisher": "บุ๊คมาร์เก็ต/Book maker",
+    "vote": "5",
+    "price": 99,
+    "quantity": 1,
+    "img_cover": "https://storage.naiin.com/system/application/bookstore/resource/product/202208/557897/1000253496_front_XL.jpg?t=cat&imgname=%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9A%E0%B8%A3%E0%B8%B4%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%88%E0%B8%B1%E0%B8%94%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99"
+  },
+  {
+    "id": "44",
+    "title": "8 อาชีพเสรีสู่ประตูอาเซียน",
+    "author": "กานธนิกา ชุณหะวัต,รตี พร้อมพรชัย,อำภา อิ",
+    "publisher": "Feel Good",
+    "vote": "5",
+    "price": 99,
+    "quantity": 1,
+    "img_cover": "https://storage.naiin.com/system/application/bookstore/resource/product/202208/557890/1000253498_front_XL.jpg?t=cat&imgname=8-%E0%B8%AD%E0%B8%B2%E0%B8%8A%E0%B8%B5%E0%B8%9E%E0%B9%80%E0%B8%AA%E0%B8%A3%E0%B8%B5%E0%B8%AA%E0%B8%B9%E0%B9%88%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%95%E0%B8%B9%E0%B8%AD%E0%B8%B2%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B8%A2%E0%B8%99"
+  },
+  {
+    "id": "45",
+    "title": "สร้าง Content แบบ Creator",
+    "author": "กฤษณ์ บุญญะรัง",
+    "publisher": "ไอแอมเดอะเบสท์/I AM THE BEST",
+    "vote": "5",
+    "price": 289,
+    "quantity": 1,
+    "img_cover": "https://storage.naiin.com/system/application/bookstore/resource/product/202209/559155/1000253691_front_XL.jpg?t=cat&imgname=%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87-Content-%E0%B9%81%E0%B8%9A%E0%B8%9A-Creator"
+  },
+  {
+    "id": "46",
+    "title": "อยากมีเงินล้านเริ่มต้นแบบนี้ พ.3",
+    "author": "บุญสูง ทิพย์รัตน์",
+    "publisher": "บุ๊คมาร์เก็ต/Book maker",
+    "vote": "5",
+    "price": 185,
+    "quantity": 1,
+    "img_cover": "https://storage.naiin.com/system/application/bookstore/resource/product/202208/557891/1000253495_front_XL.jpg?t=cat&imgname=%E0%B8%AD%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%A1%E0%B8%B5%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%A3%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%95%E0%B9%89%E0%B8%99%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%99%E0%B8%B5%E0%B9%89-%E0%B8%9E.3"
+  },
+  {
+    "id": "47",
+    "title": "THE NEW CASE FOR GOLD ทองคำ (ปกแข็ง)",
+    "author": "เจมส์ ริคคาร์ด",
+    "publisher": "แอร์โรว์ มัลติมีเดีย",
+    "vote": "5",
+    "price": 350,
+    "quantity": 1,
+    "img_cover": "https://storage.naiin.com/system/application/bookstore/resource/product/202209/558374/1000253679_front_XL.jpg?t=cat&imgname=THE-NEW-CASE-FOR-GOLD-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%B3-(%E0%B8%9B%E0%B8%81%E0%B9%81%E0%B8%82%E0%B9%87%E0%B8%87)"
+  },
+  {
+    "id": "48",
+    "title": "การตลาดใต้สำนึก ความลับที่น้กช้อปไม่เคยร",
+    "author": "Matt Johnson/Prince Ghuman",
+    "publisher": "แคนตัส พับลิชชิ่ง/Cactus Publishing",
+    "vote": "5",
+    "price": 329,
+    "quantity": 1,
+    "img_cover": "https://storage.naiin.com/system/application/bookstore/resource/product/202208/557976/1000253476_front_XL.jpg?t=cat&imgname=%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%95%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%95%E0%B9%89%E0%B8%AA%E0%B8%B3%E0%B8%99%E0%B8%B6%E0%B8%81-%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%99%E0%B9%89%E0%B8%81%E0%B8%8A%E0%B9%89%E0%B8%AD%E0%B8%9B%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%80%E0%B8%84%E0%B8%A2%E0%B8%A3"
+  },
+  {
+    "id": "49",
+    "title": "การตลาด 101",
+    "author": "ตรีฤกษ์ เพชรมนต์",
+    "publisher": "เช็ก/Czech",
+    "vote": "5",
+    "price": 245,
+    "quantity": 1,
+    "img_cover": "https://storage.naiin.com/system/application/bookstore/resource/product/202209/559149/1000253704_front_XL.jpg?t=cat&imgname=%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%95%E0%B8%A5%E0%B8%B2%E0%B8%94-101"
+  },
+  {
+    "id": "50",
+    "title": "Small Order \"อยู่บ้านสร้างเงินล้าน ด้วย",
+    "author": "ยุรนันท์ พลแย้ม",
+    "publisher": "เช็ก/Czech",
+    "vote": "5",
+    "price": 265,
+    "quantity": 1,
+    "img_cover": "https://storage.naiin.com/system/application/bookstore/resource/product/202209/559157/1000253705_front_XL.jpg?t=cat&imgname=Small-Order-%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%99-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2"
+  },
+  {
+    "id": "51",
+    "title": "ตีแตก : กลยุทธ์การเล่นเหุ้นในภาวะวิกฤต",
+    "author": "นิเวศน์ เหมวชิรวรากร",
+    "publisher": "ซีเอ็ดยูเคชั่น/se-ed",
+    "vote": "5",
+    "price": 250,
+    "quantity": 1,
+    "img_cover": "https://storage.naiin.com/system/application/bookstore/resource/product/202209/559156/1000253690_front_XL.jpg?t=cat&imgname=%E0%B8%95%E0%B8%B5%E0%B9%81%E0%B8%95%E0%B8%81-:-%E0%B8%81%E0%B8%A5%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B9%8C%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%99%E0%B9%80%E0%B8%AB%E0%B8%B8%E0%B9%89%E0%B8%99%E0%B9%83%E0%B8%99%E0%B8%A0%E0%B8%B2%E0%B8%A7%E0%B8%B0%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%A4%E0%B8%95"
+  },
+  {
+    "id": "52",
+    "title": "SUPER TECHNICAL OF CRYPTOCURRENCY สุดยอดกลุยุทธ์ในการเทรดคริปโท (PDF)",
+    "author": "J.SAKCHAI",
+    "publisher": "เช็ก/Czech",
+    "vote": "5",
+    "price": 225,
+    "quantity": 1,
+    "img_cover": "https://storage.naiin.com/system/application/bookstore/resource/product/202208/557742/1000253418_front_XL.jpg?t=cat&imgname=SUPER-TECHNICAL-OF-CRYPTOCURRENCY-%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%A2%E0%B8%AD%E0%B8%94%E0%B8%81%E0%B8%A5%E0%B8%B8%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B9%8C%E0%B9%83%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%97%E0%B8%A3%E0%B8%94%E0%B8%84%E0%B8%A3%E0%B8%B4%E0%B8%9B%E0%B9%82%E0%B8%97-(PDF)"
+  },
+  {
+    "id": "53",
+    "title": "กลยุทธ์การขายที่สร้างโอกาสทางการตลาด (พิมพ์ครั้งที่ 3)",
+    "author": "สมชาติ กิจยรรยง",
+    "publisher": "Smart Life",
+    "vote": "5",
+    "price": 195,
+    "quantity": 1,
+    "img_cover": "https://storage.naiin.com/system/application/bookstore/resource/product/202208/557738/1000253419_front_XL.jpg?t=cat&imgname=%E0%B8%81%E0%B8%A5%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B9%8C%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%82%E0%B8%B2%E0%B8%A2%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B9%82%E0%B8%AD%E0%B8%81%E0%B8%B2%E0%B8%AA%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%95%E0%B8%A5%E0%B8%B2%E0%B8%94-(%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B9%8C%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B9%88-3)"
+  },
+  {
+    "id": "54",
+    "title": "กลยุทธ์ซื้อ-ขายหุ้น 2 ขั้นตอนของบัฟเฟตต์",
+    "author": "Danial Jiwani (แดเนียล จิวานี)",
+    "publisher": "แอร์โรว์ มัลติมีเดีย",
+    "vote": "5",
+    "price": 290,
+    "quantity": 1,
+    "img_cover": "https://storage.naiin.com/system/application/bookstore/resource/product/202208/557743/1000253423_front_XL.jpg?t=cat&imgname=%E0%B8%81%E0%B8%A5%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B9%8C%E0%B8%8B%E0%B8%B7%E0%B9%89%E0%B8%AD-%E0%B8%82%E0%B8%B2%E0%B8%A2%E0%B8%AB%E0%B8%B8%E0%B9%89%E0%B8%99-2-%E0%B8%82%E0%B8%B1%E0%B9%89%E0%B8%99%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%9F%E0%B9%80%E0%B8%9F%E0%B8%95%E0%B8%95%E0%B9%8C-"
+  },
+  {
+    "id": "55",
+    "title": "วิชาที่ฮาร์ดไม่ได้สอน",
+    "author": "Mark H. McCormack(มาร์ก เอช.แมกคอร์แม็ก)",
+    "publisher": "แอร์โรว์ มัลติมีเดีย",
+    "vote": "5",
+    "price": 295,
+    "quantity": 1,
+    "img_cover": "https://storage.naiin.com/system/application/bookstore/resource/product/202208/557740/1000253422_front_XL.jpg?t=cat&imgname=%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%B2%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AE%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%94%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%AA%E0%B8%AD%E0%B8%99"
+  },
+  {
+    "id": "56",
+    "title": "พรสวรรค์ด้านการเงิน (ปกแข็ง)",
+    "author": "โกะโด โทคิโอะ (Tokio Godo)",
+    "publisher": "วารา",
+    "vote": "5",
+    "price": 600,
+    "quantity": 1,
+    "img_cover": "https://storage.naiin.com/system/application/bookstore/resource/product/202208/557253/1000253246_front_XL.jpg?t=cat&imgname=%E0%B8%9E%E0%B8%A3%E0%B8%AA%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%84%E0%B9%8C%E0%B8%94%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99-(%E0%B8%9B%E0%B8%81%E0%B9%81%E0%B8%82%E0%B9%87%E0%B8%87)"
+  },
+  {
+    "id": "57",
+    "title": "เขียนแผนธุรกิจให้รวย (พิมพ์ครั้งที่ 5)",
+    "author": "Garrett Sutton, EsQ.",
+    "publisher": "ซีเอ็ดยูเคชั่น/se-ed",
+    "vote": "5",
+    "price": 230,
+    "quantity": 1,
+    "img_cover": "https://storage.naiin.com/system/application/bookstore/resource/product/202208/557471/1000253295_front_XL.jpg?t=cat&imgname=%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B9%81%E0%B8%9C%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B8%A3%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%A3%E0%B8%A7%E0%B8%A2-(%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B9%8C%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B9%88-5)"
+  },
+  {
+    "id": "58",
+    "title": "MORE THAN TECHNICAL ANALYSIS สุดยอดแนวคิดวิชาเทรดชั้นเซียน",
+    "author": "ธัญญพัฒน์ ธัญญศิริ",
+    "publisher": "เอ็มไอเอส,สนพ./MISBook",
+    "vote": "5",
+    "price": 220,
+    "quantity": 1,
+    "img_cover": "https://storage.naiin.com/system/application/bookstore/resource/product/202208/557468/1000253298_front_XL.jpg?t=cat&imgname=MORE-THAN-TECHNICAL-ANALYSIS-%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%A2%E0%B8%AD%E0%B8%94%E0%B9%81%E0%B8%99%E0%B8%A7%E0%B8%84%E0%B8%B4%E0%B8%94%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%B2%E0%B9%80%E0%B8%97%E0%B8%A3%E0%B8%94%E0%B8%8A%E0%B8%B1%E0%B9%89%E0%B8%99%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B8%A2%E0%B8%99"
+  },
+  {
+    "id": "59",
+    "title": "สัญญาที่ต้องรักษา PROMISES TO KEEP",
+    "author": "JOE BIDEN",
+    "publisher": "วารา",
+    "vote": "5",
+    "price": 690,
+    "quantity": 1,
+    "img_cover": "https://storage.naiin.com/system/application/bookstore/resource/product/202208/557238/1000253231_front_XL.jpg?t=cat&imgname=%E0%B8%AA%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%B2-PROMISES-TO-KEEP"
+  },
+  {
+    "id": "60",
+    "title": "ส่องความคิดชัชชาติ",
+    "author": "ราช รามัญ",
+    "publisher": "MD",
+    "vote": "5",
+    "price": 195,
+    "quantity": 1,
+    "img_cover": "https://storage.naiin.com/system/application/bookstore/resource/product/202208/557017/1000253155_front_XL.jpg?t=cat&imgname=%E0%B8%AA%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%84%E0%B8%B4%E0%B8%94%E0%B8%8A%E0%B8%B1%E0%B8%8A%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4"
+  },
+  {
+    "id": "61",
+    "title": "Mindset ความสำเร็จ กลยุทธ์ Startup",
+    "author": "ณฐษินนท์ คุณะเพิ่มศิริ",
+    "publisher": "เพชรประกาย/phetpraguy",
+    "vote": "5",
+    "price": 215,
+    "quantity": 1,
+    "img_cover": "https://storage.naiin.com/system/application/bookstore/resource/product/202208/557025/1000253157_front_XL.jpg?t=cat&imgname=Mindset-%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%AA%E0%B8%B3%E0%B9%80%E0%B8%A3%E0%B9%87%E0%B8%88-%E0%B8%81%E0%B8%A5%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B9%8C-Startup"
+  },
+  {
+    "id": "62",
+    "title": "จากสิบสู่อนันต์",
+    "author": "ฟ่านไห่เทา",
+    "publisher": "อมรินทร์ How to",
+    "vote": "5",
+    "price": 445,
+    "quantity": 1,
+    "img_cover": "https://storage.naiin.com/system/application/bookstore/resource/product/202208/556686/1000252924_front_XL.jpg?t=cat&imgname=%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%AA%E0%B8%B4%E0%B8%9A%E0%B8%AA%E0%B8%B9%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B9%8C"
+  },
+  {
+    "id": "63",
+    "title": "ขายดี 24 ชั่วโมง ไม่ต้องยิงแอด",
+    "author": "นาฟิส อิสลาม",
+    "publisher": "ไอแอมเดอะเบสท์/I AM THE BEST",
+    "vote": "5",
+    "price": 289,
+    "quantity": 1,
+    "img_cover": "https://storage.naiin.com/system/application/bookstore/resource/product/202207/554072/1000251724_front_XL.jpg?t=cat&imgname=%E0%B8%82%E0%B8%B2%E0%B8%A2%E0%B8%94%E0%B8%B5-24-%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%82%E0%B8%A1%E0%B8%87-%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%A2%E0%B8%B4%E0%B8%87%E0%B9%81%E0%B8%AD%E0%B8%94-"
+  },
+  {
+    "id": "64",
+    "title": "ความลับของนักขายชั้นเซียน",
+    "author": "ธงชัย สุทธิพรวรากุล",
+    "publisher": "รี้ดอิท/read it",
+    "vote": "5",
+    "price": 295,
+    "quantity": 1,
+    "img_cover": "https://storage.naiin.com/system/application/bookstore/resource/product/202208/556921/1000253094_front_XL.jpg?t=cat&imgname=%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%82%E0%B8%B2%E0%B8%A2%E0%B8%8A%E0%B8%B1%E0%B9%89%E0%B8%99%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B8%A2%E0%B8%99"
+  },
+  {
+    "id": "65",
+    "title": "HBR AT 100",
+    "author": "HARVARD BUSINESS REVIEW",
+    "publisher": "เอ็กซเปอร์เน็ท/expernetbooks",
+    "vote": "5",
+    "price": 850,
+    "quantity": 1,
+    "img_cover": "https://storage.naiin.com/system/application/bookstore/resource/product/202207/554058/1000251668_front_XL.jpg?t=cat&imgname=HBR-AT-100"
+  },
+  {
+    "id": "66",
+    "title": "หลุมพรางการลงทุนในธุรกิจต่างแดน (เตือนภัยลงทุนใน AEC) (พิมพ์ครั้งที่ 2)",
+    "author": "ปัญญาสิริ จรูญโกศล",
+    "publisher": "ต้นคิด",
+    "vote": "5",
+    "price": 99,
+    "quantity": 1,
+    "img_cover": "https://storage.naiin.com/system/application/bookstore/resource/product/202208/556672/1000252945_front_XL.jpg?t=cat&imgname=%E0%B8%AB%E0%B8%A5%E0%B8%B8%E0%B8%A1%E0%B8%9E%E0%B8%A3%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A5%E0%B8%87%E0%B8%97%E0%B8%B8%E0%B8%99%E0%B9%83%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B8%A3%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B8%95%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B9%81%E0%B8%94%E0%B8%99-(%E0%B9%80%E0%B8%95%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B8%A0%E0%B8%B1%E0%B8%A2%E0%B8%A5%E0%B8%87%E0%B8%97%E0%B8%B8%E0%B8%99%E0%B9%83%E0%B8%99-AEC)-(%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B9%8C%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B9%88-2)"
+  },
+  {
+    "id": "67",
+    "title": "รวมสารพัดเทคนิคขายรัวๆ ทาง FACEBOOK และ SOCIAL",
+    "author": "ธัญญ์ธีรา อภิกุลวราศิษฐ์",
+    "publisher": "วิตตี้ กรุ๊ป",
+    "vote": "5",
+    "price": 199,
+    "quantity": 1,
+    "img_cover": "https://storage.naiin.com/system/application/bookstore/resource/product/202208/556704/1000252974_front_XL.jpg?t=cat&imgname=%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%9E%E0%B8%B1%E0%B8%94%E0%B9%80%E0%B8%97%E0%B8%84%E0%B8%99%E0%B8%B4%E0%B8%84%E0%B8%82%E0%B8%B2%E0%B8%A2%E0%B8%A3%E0%B8%B1%E0%B8%A7%E0%B9%86-%E0%B8%97%E0%B8%B2%E0%B8%87-FACEBOOK-%E0%B9%81%E0%B8%A5%E0%B8%B0-SOCIAL"
+  },
+  {
+    "id": "68",
+    "title": "ธรรมดาที่ทำเงิน",
+    "author": "ทานากะ ยูอิจิ",
+    "publisher": "วีเลิร์น (WeLearn)",
+    "vote": "5",
+    "price": 250,
+    "quantity": 1,
+    "img_cover": "https://storage.naiin.com/system/application/bookstore/resource/product/202208/556782/1000253012_front_XL.jpg?t=cat&imgname=%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%94%E0%B8%B2%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%97%E0%B8%B3%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99"
+  },
+  {
+    "id": "69",
+    "title": "โรงเรียนสอนธุรกิจ : Rich Dad's The Business School for People Who Like Helping People (พิมพ์ครั้งที่ 8)",
+    "author": "Robert T. Kiyosaki",
+    "publisher": "ซีเอ็ดยูเคชั่น/se-ed",
+    "vote": "5",
+    "price": 235,
+    "quantity": 1,
+    "img_cover": "https://storage.naiin.com/system/application/bookstore/resource/product/202208/556748/1000252982_front_XL.jpg?t=cat&imgname=%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%AA%E0%B8%AD%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B8%A3%E0%B8%81%E0%B8%B4%E0%B8%88-:-Rich-Dads-The-Business-School-for-People-Who-Like-Helping-People-(%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B9%8C%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B9%88-8)"
+  },
+  {
+    "id": "70",
+    "title": "Money Essentials for Jobbers : คู่มือวางแผนการเงินฉบับวัยทำงาน",
+    "author": "ญาดา กาญจนิศากร",
+    "publisher": "พราว/proudbook",
+    "vote": "5",
+    "price": 275,
+    "quantity": 1,
+    "img_cover": "https://storage.naiin.com/system/application/bookstore/resource/product/202208/556750/1000253011_front_XL.jpg?t=cat&imgname=Money-Essentials-for-Jobbers-:-%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%A7%E0%B8%B2%E0%B8%87%E0%B9%81%E0%B8%9C%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99%E0%B8%89%E0%B8%9A%E0%B8%B1%E0%B8%9A%E0%B8%A7%E0%B8%B1%E0%B8%A2%E0%B8%97%E0%B8%B3%E0%B8%87%E0%B8%B2%E0%B8%99"
+  },
+  {
+    "id": "71",
+    "title": "สร้างทีมให้ชนะ : TEAM CODE OF HONOR",
+    "author": "Blair Singer",
+    "publisher": "ซีเอ็ดยูเคชั่น/se-ed",
+    "vote": "5",
+    "price": 195,
+    "quantity": 1,
+    "img_cover": "https://storage.naiin.com/system/application/bookstore/resource/product/202208/556751/1000253004_front_XL.jpg?t=cat&imgname=%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B8%A1%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%8A%E0%B8%99%E0%B8%B0-:-TEAM-CODE-OF-HONOR"
+  },
+  {
+    "id": "72",
+    "title": "อิสรภาพทางการเงินด้วย Forex : รวมเทคนิคการเทรด Forex ไม่ให้เจ็บตัว และทำกำไรตลอดแบบคนสำเร็จจริง",
+    "author": "เบญศพล มะหิงสิบ",
+    "publisher": "หนังสือ 7D/7D BOOK",
+    "vote": "5",
+    "price": 245,
+    "quantity": 1,
+    "img_cover": "https://storage.naiin.com/system/application/bookstore/resource/product/202207/554446/1000252084_front_XL.jpg?t=cat&imgname=%E0%B8%AD%E0%B8%B4%E0%B8%AA%E0%B8%A3%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-Forex-:-%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B9%80%E0%B8%97%E0%B8%84%E0%B8%99%E0%B8%B4%E0%B8%84%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%97%E0%B8%A3%E0%B8%94-Forex-%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B9%80%E0%B8%88%E0%B9%87%E0%B8%9A%E0%B8%95%E0%B8%B1%E0%B8%A7-%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%97%E0%B8%B3%E0%B8%81%E0%B8%B3%E0%B9%84%E0%B8%A3%E0%B8%95%E0%B8%A5%E0%B8%AD%E0%B8%94%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%84%E0%B8%99%E0%B8%AA%E0%B8%B3%E0%B9%80%E0%B8%A3%E0%B9%87%E0%B8%88%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%87"
+  },
+  {
+    "id": "73",
+    "title": "พ่อรวยสอนลูก # 2 : เงินสี่ด้าน",
+    "author": "Robert T. Kiyosaki",
+    "publisher": "ซีเอ็ดยูเคชั่น/se-ed",
+    "vote": "5",
+    "price": 320,
+    "quantity": 1,
+    "img_cover": "https://storage.naiin.com/system/application/bookstore/resource/product/202207/554398/1000251673_front_XL.jpg?t=cat&imgname=%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B8%A3%E0%B8%A7%E0%B8%A2%E0%B8%AA%E0%B8%AD%E0%B8%99%E0%B8%A5%E0%B8%B9%E0%B8%81---2-:-%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99%E0%B8%AA%E0%B8%B5%E0%B9%88%E0%B8%94%E0%B9%89%E0%B8%B2%E0%B8%99"
+  },
+  {
+    "id": "74",
+    "title": "วอร์เรน บัฟเฟ็ตต์ กับการตีความงบการเงิน : Warren Buffett & The interpretation of financial statements",
+    "author": "แมรี่ บัฟเฟ็ตต์และเดวิด คลาร์ก",
+    "publisher": "สำนักพิมพ์แสงดาว/saengdao",
+    "vote": "5",
+    "price": 360,
+    "quantity": 1,
+    "img_cover": "https://storage.naiin.com/system/application/bookstore/resource/product/202207/554009/1000251663_front_XL.jpg?t=cat&imgname=%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%A3%E0%B8%99-%E0%B8%9A%E0%B8%B1%E0%B8%9F%E0%B9%80%E0%B8%9F%E0%B9%87%E0%B8%95%E0%B8%95%E0%B9%8C-%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%95%E0%B8%B5%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%87%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99-:-Warren-Buffett---The-interpretation-of-financial-statements-"
+  },
+  {
+    "id": "75",
+    "title": "เคล็ดลับการบริหารของวอร์เรน บัฟเฟ็ตต์ : WARREN BUFFETT'S MANAGEMENT SECRETS",
+    "author": "แมรี่ บัฟเฟ็ตต์และเดวิด คลาร์ก",
+    "publisher": "สำนักพิมพ์แสงดาว/saengdao",
+    "vote": "5",
+    "price": 300,
+    "quantity": 1,
+    "img_cover": "https://storage.naiin.com/system/application/bookstore/resource/product/202207/554007/1000251694_front_XL.jpg?t=cat&imgname=%E0%B9%80%E0%B8%84%E0%B8%A5%E0%B9%87%E0%B8%94%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9A%E0%B8%A3%E0%B8%B4%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%A3%E0%B8%99-%E0%B8%9A%E0%B8%B1%E0%B8%9F%E0%B9%80%E0%B8%9F%E0%B9%87%E0%B8%95%E0%B8%95%E0%B9%8C-:-WARREN-BUFFETTS-MANAGEMENT-SECRETS"
+  },
+  {
+    "id": "76",
+    "title": "วอร์เรน บัฟเฟ็ตต์ ศิลปะแห่งการค้ากำไรหุ้น : Warren Buffett & the art of stock arbitrage",
+    "author": "แมรี่ บัฟเฟ็ตต์และเดวิด คลาร์ก",
+    "publisher": "สำนักพิมพ์แสงดาว/saengdao",
+    "vote": "5",
+    "price": 300,
+    "quantity": 1,
+    "img_cover": "https://storage.naiin.com/system/application/bookstore/resource/product/202207/554010/1000251695_front_XL.jpg?t=cat&imgname=%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%A3%E0%B8%99-%E0%B8%9A%E0%B8%B1%E0%B8%9F%E0%B9%80%E0%B8%9F%E0%B9%87%E0%B8%95%E0%B8%95%E0%B9%8C-%E0%B8%A8%E0%B8%B4%E0%B8%A5%E0%B8%9B%E0%B8%B0%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B9%89%E0%B8%B2%E0%B8%81%E0%B8%B3%E0%B9%84%E0%B8%A3%E0%B8%AB%E0%B8%B8%E0%B9%89%E0%B8%99-:-Warren-Buffett---the-art-of-stock-arbitrage"
+  },
+  {
+    "id": "77",
+    "title": "ขายของออนไลน์ ได้เงินง่ายๆ ใน 3 สับดาห์",
+    "author": "ชวพล ฟ้าอำนวยผล",
+    "publisher": "หนังสือ 7D/7D BOOK",
+    "vote": "5",
+    "price": 245,
+    "quantity": 1,
+    "img_cover": "https://storage.naiin.com/system/application/bookstore/resource/product/202207/554089/1000251735_front_XL.jpg?t=cat&imgname=%E0%B8%82%E0%B8%B2%E0%B8%A2%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C-%E0%B9%84%E0%B8%94%E0%B9%89%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99%E0%B8%87%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B9%86-%E0%B9%83%E0%B8%99-3-%E0%B8%AA%E0%B8%B1%E0%B8%9A%E0%B8%94%E0%B8%B2%E0%B8%AB%E0%B9%8C"
+  },
+  {
+    "id": "78",
+    "title": "ทำไมต้องเริ่มด้วย \"ทำไม\"",
+    "author": "Simon Sinek",
+    "publisher": "วีเลิร์น (WeLearn)",
+    "vote": "5",
+    "price": 275,
+    "quantity": 1,
+    "img_cover": "https://storage.naiin.com/system/application/bookstore/resource/product/202207/554087/1000251722_front_XL.jpg?t=cat&imgname=%E0%B8%97%E0%B8%B3%E0%B9%84%E0%B8%A1%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A3%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-%E0%B8%97%E0%B8%B3%E0%B9%84%E0%B8%A1-"
+  },
+  {
+    "id": "79",
+    "title": "METAVERSE 101",
+    "author": "แทร์รี่ วินเทอร์ส",
+    "publisher": "อมรินทร์ How to",
+    "vote": "5",
+    "price": 265,
+    "quantity": 1,
+    "img_cover": "https://storage.naiin.com/system/application/bookstore/resource/product/202207/553402/1000251422_front_XL.jpg?t=cat&imgname=METAVERSE-101"
+  },
+  {
+    "id": "80",
+    "title": "ผมทำเงินล้านแรกจากตลาดหุ้นในเวลา 2 ปี",
+    "author": "ณัฐพล เศรษฐบุตร",
+    "publisher": "หนังสือ 7D/7D BOOK",
+    "vote": "5",
+    "price": 245,
+    "quantity": 1,
+    "img_cover": "https://storage.naiin.com/system/application/bookstore/resource/product/202207/554020/1000251706_front_XL.jpg?t=cat&imgname=%E0%B8%9C%E0%B8%A1%E0%B8%97%E0%B8%B3%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%A3%E0%B8%81%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%95%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%AB%E0%B8%B8%E0%B9%89%E0%B8%99%E0%B9%83%E0%B8%99%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-2-%E0%B8%9B%E0%B8%B5"
+  }
+]

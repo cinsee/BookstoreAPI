@@ -4,9 +4,12 @@ import mongoose from "mongoose";
 import cors from "cors";
 import cookieParser from "cookie-parser";
 
+import dataRoute from "./routes/data.js";
+// const dataModule = require("./routes/data.js");
+
 dotenv.config();
 const app = express();
-const port = process.env.PORT || 3000;
+const port = process.env.PORT || 4000;
 
 //for testing
 app.get("/", (req, res) => {
@@ -30,6 +33,7 @@ const connect = async () => {
 app.use(express.json());
 app.use(cors());
 app.use(cookieParser());
+app.use("/data", dataRoute);
 
 app.listen(port, () => {
   connect();
