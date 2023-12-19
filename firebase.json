@@ -7,6 +7,12 @@
       "**/node_modules/**"
     ]
   },
+  "emulators": {
+    "hosting": {
+      "port": 4000,
+      "host": "0.0.0.0"
+    }
+  },
   "functions": [
     {
       "source": "functions",
